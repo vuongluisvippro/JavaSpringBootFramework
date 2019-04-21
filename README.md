@@ -1,2 +1,1 @@
-# JavaSpringBootFramework
-This project just learn basic Java website framework.
+# Lession 1 (21/04/2019) 
